@@ -48,3 +48,7 @@ https://github.com/jscad/csg.js
 http://sandervanrossen.blogspot.com/2010/05/csg-operations.html
 
 https://www.geometrictools.com/Documentation/ClipMesh.pdf
+
+# ALSO
+
+* https://github.com/sermonis/three-csg-mesh
